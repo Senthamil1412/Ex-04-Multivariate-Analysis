@@ -42,6 +42,10 @@ Find the pairwise correlation of all columns in the dataframe.corr() .
 
 Save the final data set into the file.
 
+```
+Developed by:G.SENTHAMIL SELVAN
+Registration number:212222230139
+```
 ### PROGRAM:
 ```
 import pandas as pd
